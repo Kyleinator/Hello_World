@@ -1,0 +1,9 @@
+#Python 3.X | Simple user input
+print("Hello to this program")
+ip = input(str("Please enter hello world; "))
+
+if(ip == "hello world"):
+    print("Goodbye ugly")
+
+else:
+    print("You type like shrek...")
